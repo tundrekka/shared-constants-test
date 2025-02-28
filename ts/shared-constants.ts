@@ -1,0 +1,1 @@
+const dataAttrTest = "data-test-attr";
