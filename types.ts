@@ -1,0 +1,1 @@
+interface ITest = {value: string};
